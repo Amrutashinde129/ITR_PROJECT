@@ -1,0 +1,7 @@
+tensorflow==2.21.0
+streamlit
+numpy
+pillow
+scikit-learn
+matplotlib
+protobuf>=6.31.1,<7
